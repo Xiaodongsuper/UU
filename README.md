@@ -8,7 +8,7 @@ Reviewer2: Identification Time Cost
 
 
 Reviewer4: Identification Accuracy
-
-|----------|:-------------:|-----------:|
+|Our Method|
+|----------|:-------------:|
 |Identification Accuracy|0|
 |Sampling Rate||0|
