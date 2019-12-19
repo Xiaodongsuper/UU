@@ -1,10 +1,10 @@
-Reviewer2: Identification Time Cost
+Reviewer2: Identification Time Cost(1 query average times)
 
 |Method|Time Cost(s)|
 |:----------:|:-------------:|
-|UUB|0|
-|Coverage_based|0|
-|Our method|0|
+|UUB|36.2341|
+|Coverage_based|7.3215|
+|Our method|3.4598|
 
 
 Reviewer4: Identification Accuracy
