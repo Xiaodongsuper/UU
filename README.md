@@ -8,7 +8,7 @@ Reviewer2: Identification Time Cost
 
 
 Reviewer4: Identification Accuracy
-|Sampling Rate|Identification Accuracy(mean \pm std)|
+|Sampling Rate|Identification Accuracy(mean  std)|
 |----------|:-------------:|
 |UUB|0|
 |Coverage_based|0|
