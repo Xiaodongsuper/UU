@@ -1,6 +1,6 @@
 Reviewer2: Identification Time Cost(1 query average times)
 
-|Method|Time Cost(s)|
+|Method|Time Cost(second)|
 |:----------:|:-------------:|
 |UUB|36.2341|
 |Coverage_based|7.3215|
