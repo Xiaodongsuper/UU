@@ -9,8 +9,6 @@ Reviewer2: Identification Time Cost
 
 Reviewer4: Identification Accuracy
 
-||Sampling Rate|
-|----------|:-------------:|
-|UUB|0|
-|Coverage_based|0|
-|Our method|0|
+|----------|:-------------:|-----------:|
+|Identification Accuracy|0|
+|Sampling Rate||0|
